@@ -1,6 +1,9 @@
 # 生物信息学课程笔记
 
 ## Lecture One &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Getting Started*
+1. 生物信息学研究问题的流程
+   - **Question/Hypothesis-driven Science**：Question-Information-Analysis-Modeling
+   - **Big Data-driven Science**: Information-Analysis-Modeling-Question
 
 # 附：生物信息学学习计划
 
