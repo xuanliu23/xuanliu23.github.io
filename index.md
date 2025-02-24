@@ -31,7 +31,7 @@
    docker ps -a #查看所有容器container
    docker images #查看所有镜像image
    docker rm -f liuxuan_linux #删除容器
-   docker rmi bioinfo_tsinghua # 删除image
+   docker rmi bioinfo_tsinghua #删除image
    ```
 
 # 附：生物信息学学习计划
