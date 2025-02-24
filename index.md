@@ -25,6 +25,14 @@
    ```shell
    docker exec -it liuxuan_linux bash
    ```
+   - **常用命令**：
+   ```shell
+   docker ps #查看当前正在运行的容器container
+   docker ps -a #查看所有容器container
+   docker images #查看所有镜像image
+   docker rm -f liuxuan_linux #删除容器
+   docker rmi bioinfo_tsinghua # 删除image
+   ```
 
 # 附：生物信息学学习计划
 
